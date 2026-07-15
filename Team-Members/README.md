@@ -9,7 +9,7 @@ Below are the members of Group 14 who worked on the **AgroPulse** project.
 
 | Photo | Name | Registration Number | Role |
 | :---: | :--- | :--- | :--- |
-| <img src="photos/gehan.jpg" width="80"> | Gehan Illanganthilaka | D/ICT/25/0062 | Project Lead |
+| <img src="https://github.com/AgroPulse-Team/AgroPulse-Project-Portal/blob/main/Team-Members/Members-Photos/gehan.jpeg" width="80"> | Gehan Illanganthilaka | D/ICT/25/0062 | Project Lead |
 | <img src="photos/madhubashitha.jpg" width="80"> | M.M.T.Madhubashitha Senarath | D/ICT/25/0063 | Frontend Developer |
 | <img src="photos/vimandi.jpg" width="80"> | R.M.Vimandi Nethsara | D/ICT/25/0094 | UI/UX Designer |
 | <img src="photos/dumindu.jpg" width="80"> | R.Dumindu Chinthaka | D/ICT/25/0028 | Backend Developer |
