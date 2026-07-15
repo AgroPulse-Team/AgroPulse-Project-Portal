@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://github.com/AgroPulse-Team/AgroPulse-Project-Portal/blob/main/AgroPulse-LOGO/agropulse-logo.png.png" alt="AgroPulse Logo" width="200"/>
+  <img src="https://github.com/AgroPulse-Team/AgroPulse-Project-Portal/blob/main/Project_Logo/Project-Logo/logo.png" alt="AgroPulse Logo" width="200"/>
 </p>
 
 <h1 align="center">AgroPulse: Smart Vegetable Price Viewer 🥦</h1>
