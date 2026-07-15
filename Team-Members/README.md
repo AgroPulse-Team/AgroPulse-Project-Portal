@@ -16,7 +16,7 @@ Below are the members of Group 14 who worked on the **AgroPulse** project.
 | <img src="https://github.com/AgroPulse-Team/AgroPulse-Project-Portal/blob/main/Team-Members/Members-Photos/charitha.jpeg" width="80"> | Charitha Neranjan Wanigasooriya | D/ICT/25/0080 | Database Manager |
 | <img src="https://github.com/AgroPulse-Team/AgroPulse-Project-Portal/blob/main/Team-Members/Members-Photos/nethmi.jpg" width="80"> | G.Nethmi Dhramasena | D/ICT/25/0037 | Frontend Developer |
 | <img src="https://github.com/AgroPulse-Team/AgroPulse-Project-Portal/blob/main/Team-Members/Members-Photos/ishan.jpeg" width="80"> | W.A.M.Ishan Moditha Athapaththu | D/ICT/25/0118 | Documentation |
-| <img src="photos/dilruksha.jpg" width="80"> | M.K.Dilruksha Ekanayaka | D/ICT/25/0013 | Quality Assurance |
+| <img src="https://github.com/AgroPulse-Team/AgroPulse-Project-Portal/blob/main/Team-Members/Members-Photos/dilruksha.jpg" width="80"> | M.K.Dilruksha Ekanayaka | D/ICT/25/0013 | Quality Assurance |
 
 </div>
 
