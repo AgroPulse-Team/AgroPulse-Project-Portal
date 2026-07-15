@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="Logo/logo.png" alt="AgroPulse Logo" width="300">
+  <img src="https://github.com/AgroPulse-Team/AgroPulse-Project-Portal/blob/main/Project_Logo/Project-Logo.lnk" alt="AgroPulse Logo" width="300">
 </p>
