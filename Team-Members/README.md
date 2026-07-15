@@ -1,7 +1,7 @@
 <h1 align="center">👥 Project Team: Group 14</h1>
 <h3 align="center">Intake 42 | Department of BioSystems Technology | KDU</h3>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -20,5 +20,5 @@ Below are the members of Group 14 who worked on the **AgroPulse** project.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
